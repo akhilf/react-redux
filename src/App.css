@@ -1,5 +1,5 @@
-.img-container{
+.container{
   width: 20rem;
-  float:left;
+  margin: auto;
   margin: 10px;
 }
