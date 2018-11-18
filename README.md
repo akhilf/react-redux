@@ -1,5 +1,5 @@
-## Learning ReactJS
-### It is small react based application where you can add items to list and delete it
+## React and Redux example
+### Demonstrate basic usage of redux
 
 Prerequisites
 ============
